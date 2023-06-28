@@ -1,1 +1,6 @@
 
+>>The Secure Shell Protocol (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network.
+
+vault
+
+>The SSH protocol can be called a remote protocol. It provides authentication using a password or private and public keys. In contrast, the SSL protocol can be called a security protocol. It usually uses digital certificates to authenticate the client and the server. The next difference is that the work of the SSH protocol relies on network tunnels. Whereas the SSL protocol is based on digital certificates.
