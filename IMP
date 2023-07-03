@@ -1,6 +1,7 @@
 
 >>The Secure Shell Protocol (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network.
 
-vault
+>>ICMP is used for error reporting if two devices connect over the internet and some error occurs, So, the router sends an ICMP error message 
+to the source informing about the error.
 
 >The SSH protocol can be called a remote protocol. It provides authentication using a password or private and public keys. In contrast, the SSL protocol can be called a security protocol. It usually uses digital certificates to authenticate the client and the server. The next difference is that the work of the SSH protocol relies on network tunnels. Whereas the SSL protocol is based on digital certificates.
