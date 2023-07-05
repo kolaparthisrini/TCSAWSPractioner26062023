@@ -8,5 +8,6 @@ AWS S3 Transfer Accelarator: https://s3-accelerate-speedtest.s3-accelerate.amazo
 https://www.freenom.com/en/index.html?lang=en ---for AWS Route 53 Testing <br>
 https://aws-cloudfront-testing.s3.amazonaws.com/CustomerTesting.html<br>
 https://aws.amazon.com/migration-evaluator/<br>
-https://speedtest.globalaccelerator.aws/#/
+https://speedtest.globalaccelerator.aws/#/<br>
+WAF Testing tool: https://www.wallarm.com/gotestwaf/overview
 
