@@ -1,4 +1,9 @@
+Elastic   Cache:
+================
 
+>sudo yum install redis6 -y
+>redis6-cli -h change-node-type.54awdt.ng.0001.use1.cache.amazonaws.com -p 6379
+===============
 >>The Secure Shell Protocol (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network.
 
 >>ICMP is used for error reporting if two devices connect over the internet and some error occurs, So, the router sends an ICMP error message 
