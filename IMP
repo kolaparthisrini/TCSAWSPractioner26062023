@@ -10,3 +10,6 @@ Elastic   Cache:
 to the source informing about the error.
 
 >The SSH protocol can be called a remote protocol. It provides authentication using a password or private and public keys. In contrast, the SSL protocol can be called a security protocol. It usually uses digital certificates to authenticate the client and the server. The next difference is that the work of the SSH protocol relies on network tunnels. Whereas the SSL protocol is based on digital certificates.
+================================
+Amazon Detective helps you analyze, investigate, and quickly identify the root cause of security findings or suspicious activities. Detective automatically collects log data from your AWS resources. It then uses machine learning, statistical analysis, and graph theory to generate visualizations that help you conduct faster and more efficient security investigations. The Detective prebuilt data aggregations, summaries, and context help you to quickly analyze and determine the nature
+and extent of possible security issues. In this workshop, learn the basics of Amazon Detective as you walk through different use cases.
