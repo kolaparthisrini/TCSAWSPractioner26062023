@@ -1,3 +1,10 @@
+Tomcat:
+==========
+wget <paste the tar.gz address copied in st>
+tar -zvxf apache-tomcat-9.0.10.tar.gz
+chmod +x startup.sh
+chmod +x shutdown.sh
+
 Elastic   Cache:
 ================
 
