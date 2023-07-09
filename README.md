@@ -10,5 +10,6 @@ https://aws-cloudfront-testing.s3.amazonaws.com/CustomerTesting.html<br>
 https://aws.amazon.com/migration-evaluator/<br>
 https://speedtest.globalaccelerator.aws/#/<br>
 WAF Testing tool: https://www.wallarm.com/gotestwaf/overview<br>
-Organizations: https://docs.aws.amazon.com/organizations/latest/userguide/orgs_integrate_services_list.html?org_product_rs_services
+Organizations: https://docs.aws.amazon.com/organizations/latest/userguide/orgs_integrate_services_list.html?org_product_rs_services<br>
+https://aws.amazon.com/getting-started/hands-on/run-serverless-code/
 
