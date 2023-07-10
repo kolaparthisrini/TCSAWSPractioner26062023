@@ -1,0 +1,6 @@
+AWS CodePipeline is used for code configuration, testing, and deployment each time it is altered.
+AWS CodeBuild compiles the source code, collects, tests, and builds software packages ready for deployment.
+AWS CodeDeploy automates code deployment for any instance, including Amazon EC2 and local services.
+AWS CodeStar is a cloud service that provides DevOps tools for easy app development, creation, and deployment on AWS.
+AWS Device Farm is an application testing service that lets you improve the quality of your web and mobile apps by testing them across 
+real desktop browsers and real mobile devices.
