@@ -1,0 +1,10 @@
+>AWS DataSync	AWS DataSync is a managed data transfer service that simplifies and automates moving data between on-premises storage and Amazon S3, Amazon FSx for Windows File Server, or Amazon Elastic File System (EFS). It provides fast and secure data transfers with flexible scheduling options	It provides fast and secure data transfers with flexible scheduling options and can be used for a variety of use cases, such as data backup and disaster recovery, migration to the cloud, and data distribution. AWS DataSync is optimized for fast and efficient data transfer between on-premises storage and AWS storage services.
+
+>AWS Direct Connect	
+AWS Direct Connect is a network service that provides dedicated network connections from on-premises data centers to AWS. It offers a reliable, high-bandwidth, low-latency connection to AWS, bypassing the public internet.
+
+>Direct Connect is useful for use cases where high-speed, low-latency connectivity is required, such as data transfers between on-premises storage and AWS, and VPN connections to AWS resources.
+
+>The Snowball family	It consists of physical storage appliances that you can use to transfer large amounts of data into and out of AWS. The Snowball family includes Snowball Edge, Snowball, and Snowmobile	 Snowball Edge is a device that has built-in storage and computing resources, making it ideal for transferring large amounts of data in remote locations where a high-speed internet connection may not be available.
+
+>AWS Storage Gateway	It is a hybrid storage service that enables you to store data in the AWS Cloud and access it as a network file system.AWS Storage Gateway is optimized for hybrid storage scenarios where data needs to be stored both on-premises and in the AWS Cloud
